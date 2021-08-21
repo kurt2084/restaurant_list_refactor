@@ -18,7 +18,7 @@ Packages dependency:
 How to use:
 1. open terminal
 2. git clone https://github.com/kurt2084/restaurant_list_refactor.git
-3. type cd restaurant_list_A3(chnage path to this app)
+3. type cd restaurant_list_refactor(chnage path to this app)
 4. type npm install(install npm packages)
 5. type npm run seed(create default data)  
 6. type npm run start(start the server)
